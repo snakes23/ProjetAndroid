@@ -1,0 +1,2 @@
+/Users/Mouss/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/classes/debug
+/Users/Mouss/AndroidStudioProjects/ProjetAndroid/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-59817e5cbf42a8f326dd2a59a905a96905a1584e.jar

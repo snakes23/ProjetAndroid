@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/id_Aide"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_aide"/>
+    
+      <item
+   
+        android:id="@+id/id_Propos"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/menu_propos" />
+        
+    
+
+</menu>

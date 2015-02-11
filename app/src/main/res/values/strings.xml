@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color-Match</string>
+    
+    
+     <!--  String concernant le texte des menu (Menu Activity & JeuView)  -->
+    <string name="menu_aide">Aide</string>
+    
+    <string name="menu_propos">A Propos</string>
+    
+    <!--  String concernant les textes du menu en pleine partie -->
+    <string name="Vibration_state_1">Vibreur ON</string>
+    <string name="Effet_state_1">Effets Sonores ON</string>
+    <string name="Solution_state_1">Solution </string>
+    
+    <!--  String concernant le texte des boutons de Menu Activity (acitivty principal)  -->
+    
+    <string name="Text_jouer">Jouer</string>
+    <string name="Text_reprendre">Reprendre</string>
+    
+    <string name="SoundOff">Son : OFF</string>
+    <string name="SoundOn">Son : ON  </string>
+    
+    <string name="Text_Score">Score</string>
+    
+    <string name="Text_Quitter">Quitter</string>
+    
+   
+   <!-- String concernant les textes de l'acticity A Propos -->  
+    <string name="DescriptionLogo">Logo_point_interrogation</string>
+    
+    <string name="phrase_intro">Jeu développé par :</string>
+    
+    <string name="EtudiantNum1">-ABDELOUAHAD Mustapha</string>
+    <string name="EtudiantNum2">-DIALLO Boubou</string>
+    
+    <string name="phrase_information">Etudiants à L\' université de Paris 8 en Master première année MIME</string>
+    
+    <string name="retour">back</string>
+    
+
+</resources>
